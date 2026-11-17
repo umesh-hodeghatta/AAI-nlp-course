@@ -1,4 +1,83 @@
-<img width="4032" height="864" alt="image" src="https://github.com/user-attachments/assets/4c1a2bf3-f16b-4881-a22b-bce6242438aa" />
+# Interactive Learning Resources
 
-<img width="1218" height="2268" alt="image" src="https://github.com/user-attachments/assets/125b04c0-8386-4412-8f6a-ed024698a6f7" />
+Explore interactive tutorials, visualizations, simulations, and educational tools that complement the course lectures and labs.
 
+These resources are optional but highly recommended.
+
+---
+
+## NLP Resources
+
+### NLTK Book - Text Processing
+
+**Topics Covered:**
+
+- Text Processing
+- Regular Expressions
+- Tokenization
+- Corpus Analysis
+
+**Resource:**
+
+https://www.nltk.org/book/ch03.html
+
+---
+
+## AI Visualization Resources
+
+### Polo Club of Data Science
+
+**Topics Covered:**
+
+- Human-Centered AI
+- Explainable AI
+- Deep Learning Visualization
+- Interactive Demonstrations
+
+**Resource:**
+
+https://poloclub.github.io/
+
+---
+
+## Transformers and Large Language Models
+
+### Transformer Explainer
+
+A highly interactive visualization that explains:
+
+- Self-Attention
+- Multi-Head Attention
+- Positional Encoding
+- Transformer Architecture
+
+**Recommended For:**
+
+- Week 10 - Transformers
+- Week 11 - Transfer Learning and BERT
+- Week 12 - Large Language Models
+
+**Resource:**
+
+https://poloclub.github.io/transformer-explainer/
+
+---
+
+### TensorFlow Transformer Tutorial
+
+**Topics Covered:**
+
+- Neural Machine Translation
+- Transformer Models
+- Attention Mechanisms
+- TensorFlow Implementation
+
+**Resource:**
+
+https://www.tensorflow.org/text/tutorials/transformer
+
+---
+
+## Additional Resources
+
+Additional simulations, visualizations, tutorials, and interactive learning tools will be added throughout the semester.
